@@ -21,7 +21,7 @@ spec:
    spec:
      containers:
      - name: petclinic
-       image: manojd123/petclinicprivate
+       image: manojd123/petclinic
        ports:
         - containerPort: 8080
      
