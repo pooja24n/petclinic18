@@ -12,9 +12,9 @@ input[type="text"] {
 }
 
 .navbar .nav > li > a {
-    color: #000000;
+    color: #010000;
 }
 
 .form-horizontal .control-label {
-    text-align: left;
+    text-align: right;
 }
